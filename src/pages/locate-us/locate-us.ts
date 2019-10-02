@@ -53,7 +53,7 @@ export class LocateUsPage {
   mapLoadedObserver: any;
   currentMarker: any;
   //free map api :D
-  apiKey: string = "your key";
+  apiKey: string = "yourkey";
   markers: any = [];
 
   segment: string = "branch";
